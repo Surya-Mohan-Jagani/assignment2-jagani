@@ -15,4 +15,16 @@ Badminton is my **favourite sport** from childhood. I feel very relieved when I 
 * China
 * Korea
 
+---
+## Countries to visit
+The following countries are my favourite choices to visit once in a life. I recommend every one to visit these place atleast once in their life.
+
+| Country | Reason | Days |
+| --- | --- | --- |
+| India | Food | 90 |
+| Thailand | Thai massage | 30 |
+| Hong Kong | shopping | 15 |
+| France | Eiffle Tower | 20 |
+
+
 [About Me](AboutMe.md)
