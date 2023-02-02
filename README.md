@@ -34,5 +34,20 @@ The following countries are my favourite choices to visit once in a life. I reco
 > Money cannot buy health, but I'd settle for a diamond-studded wheelchair.
 <br> — *Dorothy Parker*
 
+---
+## Truncate String with Ellipsis
+> I want to truncate a text or line with ellipsis using JavaScript
+[Stackoverflow](https://stackoverflow.com/questions/4700226/i-want-to-truncate-a-text-or-line-with-ellipsis-using-javascript)
+
+```
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+```
+[css-tricks](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
+
 
 [About Me](AboutMe.md)
