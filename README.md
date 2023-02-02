@@ -26,5 +26,13 @@ The following countries are my favourite choices to visit once in a life. I reco
 | Hong Kong | shopping | 15 |
 | France | Eiffle Tower | 20 |
 
+---
+## Fun Quotes
+> You know you’ve reached middle age when you’re cautioned to slow down by your doctor, instead of by the police. 
+<br> — *Joan Rivers*
+
+> Money cannot buy health, but I'd settle for a diamond-studded wheelchair.
+<br> — *Dorothy Parker*
+
 
 [About Me](AboutMe.md)
