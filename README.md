@@ -9,3 +9,8 @@ Badminton is my **favourite sport** from childhood. I feel very relieved when I 
 1. PV sindhu
 1. Saina Nehwal
 1. Jwala Gutta
+
+## Other best teams
+* Japan
+* China
+* Korea
